@@ -1,3 +1,8 @@
+# In Windows, link magick++ lib, use with zbar
+
+- MAKE SURE, Select!!!RELEASE!!!
+- see [stackoverflow](https://stackoverflow.com/questions/23684903/imagemagick-error-unable-to-open-image)
+
 # ImageMagick
 
 [![Build Status](https://github.com/ImageMagick/ImageMagick/workflows/main/badge.svg)](https://github.com/ImageMagick/ImageMagick/actions)
